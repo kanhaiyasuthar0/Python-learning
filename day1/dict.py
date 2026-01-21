@@ -1,2 +1,2 @@
 test = {}
-test["name"] = "kanhaiya"
+test["name"] = None
